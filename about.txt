@@ -1,0 +1,3 @@
+Name: Karanam Usha
+Course: BSC Computer Science
+One thing I learned about GitHub: GitHub is a platform that helps developers collaborate, manage code version, and track changes in Projects using Git.
